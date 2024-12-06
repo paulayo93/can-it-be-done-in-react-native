@@ -19,6 +19,14 @@ const examples = [
     screen: "SongOfBloom",
     title: "*️⃣ Song of Bloom",
   },
+  {
+    screen: "Instagram",
+    title: "📸 Instagram",
+  },
+  {
+    screen: "Telegram",
+    title: "💬 Telegram",
+  },
 ] as const;
 
 const styles = StyleSheet.create({

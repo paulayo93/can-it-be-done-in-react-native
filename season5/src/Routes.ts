@@ -3,4 +3,8 @@ export type Routes = {
   Headspace: undefined;
   Riveo: undefined;
   SongOfBloom: undefined;
+  Instagram: undefined;
+  Telegram: undefined;
+
+  StickerModal: undefined;
 };

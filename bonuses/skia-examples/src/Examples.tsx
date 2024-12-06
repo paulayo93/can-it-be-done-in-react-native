@@ -15,6 +15,26 @@ const examples = [
     screen: "JoyOfPainting",
     title: "🎨 Joy of Painting",
   },
+  {
+    screen: "BlurGradient",
+    title: "🌫️ Blur Gradient",
+  },
+  {
+    screen: "Wallpaper",
+    title: "🍏 Wallpaper",
+  },
+  {
+    screen: "Rings",
+    title: "🏋️‍♂️ Fitness Rings",
+  },
+  {
+    screen: "Generators",
+    title: "🧪 Generators",
+  },
+  {
+    screen: "Heartrate",
+    title: "❤️ Heartrate",
+  },
 ] as const;
 
 const styles = StyleSheet.create({
